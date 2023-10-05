@@ -1,2 +1,0 @@
-
-colisao_powerup = false;
