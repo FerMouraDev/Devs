@@ -1,0 +1,2 @@
+
+global.grudarTaco = false;
